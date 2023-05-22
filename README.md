@@ -2,7 +2,7 @@
 In this challenge, I'll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 ## Background
-In this endeavor, I have embraced the responsibility of assisting the city's school district board and mayor in making informed decisions about future school budgets and priorities. For my initial assignment, I have been entrusted with the task of analyzing the standardized test results across the entire district. I have access to individual students' math and reading scores, as well as comprehensive information about the schools they attend. My primary goal is to effectively aggregate the data and present discernible patterns that highlight the performance of schools within the district..
+In this endeavor, I have embraced the responsibility of assisting the city's school district board and mayor in making informed decisions about future school budgets and priorities. For my initial assignment, I have been entrusted with the task of analyzing the standardized test results across the entire district. I have access to individual students' math and reading scores, as well as comprehensive information about the schools they attend. My primary goal is to effectively aggregate the data and present discernible patterns that highlight the performance of schools within the district.
 
 ## Instructions
 I will leverage the power of Pandas and Jupyter Notebook to generate a comprehensive report encompassing the provided dataset. The report will present essential data insights and will also include a written analysis highlighting at least two notable trends observed from the data.
